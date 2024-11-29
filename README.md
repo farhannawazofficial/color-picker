@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+live : https://color-picker-site.vercel.app/?vercelToolbarCode=r5U2gwzEuK4y7HL
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
